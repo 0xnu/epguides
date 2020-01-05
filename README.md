@@ -4,9 +4,10 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 
 ## EPG by Country
 
-Supports France and United Kingdom TV Channels at the moment:
+Supports France, Germany, and United Kingdom TV Channels at the moment:
 
  - **France:** ```https://t.ly/eRNE3```
+ - **Germany:** ```https://t.ly/eRNE3```
  - **United Kingdom:** ```https://t.ly/2wl25```
 
 ## Need a guide for your country, got issues or questions?
