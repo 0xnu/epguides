@@ -4,11 +4,9 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 
 ## EPG by Country
 
-You can specify guide URL in your IPTV application like this
+You can specify guide URL in your IPTV application like this:
 
-```shell
-United Kingdom: https://t.ly/2wl25
-```
+ - **United Kingdom:** https://t.ly/2wl25
 
 ## Need a guide for your country, got issues or questions?
 
