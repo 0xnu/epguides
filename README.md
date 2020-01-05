@@ -7,7 +7,7 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 You can specify guide URL in your IPTV application like this
 
 ```shell
-https://git.io/JejLG/uk.xml
+https://git.io/JejLG/g/uk.xml
 ```
 
 ## Got issues or questions?
