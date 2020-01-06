@@ -1,6 +1,6 @@
 # EPGuides
 
-EPGuides - Electronic Program Guide - is a useful and straightforward tv program data covering countries across the globe. It's free to use, updated daily, and provides simple array access to the downloaded XML structures.
+EPGuides - Electronic Program Guide - is a useful and straightforward tv program data covering countries across the globe. It's free to use, updated every seven days, and provides simple array access to the downloaded XML structures.
 
 ## EPG by Country
 
