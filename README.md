@@ -6,9 +6,9 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 
 Supports France, Germany, and United Kingdom TV Channels at the moment:
 
- - **France:** ```https://t.ly/eRNE3```
- - **Germany:** ```https://t.ly/YRWNJ```
- - **United Kingdom:** ```https://t.ly/2wl25```
+ - **France:** ```https://t.ly/6wmP1```
+ - **Germany:** ```https://t.ly/R2Wl3```
+ - **United Kingdom:** ```https://t.ly/2w0jR```
 
 ## Need a guide for your country, got issues or questions?
 
