@@ -7,16 +7,16 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 Supports France, Germany, and United Kingdom TV Channels at the moment:
 
  - **France:**
- 	```XML: https://t.ly/6wmP1```
- 	```JSON: https://epgapi.herokuapp.com/fr```
+ 	- ```XML: https://t.ly/6wmP1```
+ 	- ```JSON: https://epgapi.herokuapp.com/fr```
 
  - **Germany:**
- 	```XML: https://t.ly/R2Wl3```
- 	```JSON: https://epgapi.herokuapp.com/de```
+ 	- ```XML: https://t.ly/R2Wl3```
+ 	- ```JSON: https://epgapi.herokuapp.com/de```
 
  - **United Kingdom:**
- 	```XML: https://t.ly/2w0jR```
- 	```JSON: https://epgapi.herokuapp.com/uk```
+ 	- ```XML: https://t.ly/2w0jR```
+ 	- ```JSON: https://epgapi.herokuapp.com/uk```
 
 ## Need a guide for your country, got issues or questions?
 
