@@ -8,15 +8,15 @@ Supports France, Germany, and United Kingdom TV Channels at the moment:
 
  - **France:**
  	- ```XML: https://t.ly/6wmP1```
- 	- ```JSON: https://epgapi.herokuapp.com/fr```
+ 	- ```JSON: http://www.epgapi.ml/fr```
 
  - **Germany:**
  	- ```XML: https://t.ly/R2Wl3```
- 	- ```JSON: https://epgapi.herokuapp.com/de```
+ 	- ```JSON: http://www.epgapi.ml/de```
 
  - **United Kingdom:**
  	- ```XML: https://t.ly/2w0jR```
- 	- ```JSON: https://epgapi.herokuapp.com/uk```
+ 	- ```JSON: http://www.epgapi.ml/uk```
 
 ## Need a guide for your country, got issues or questions?
 
