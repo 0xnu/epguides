@@ -4,10 +4,13 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 
 ## EPG Data
 
-Supports France, Germany, and United Kingdom TV Channels at the moment:
+Supports Belgium, France, Germany, and United Kingdom TV Channels at the moment:
 
- - **France, Germany and United Kingdom (combined epg, but it is large):**
+ - **Belgium, France, Germany and United Kingdom (combined epg, but it is large):**
  	- XML Format: ```http://www.epgapi.ml/epg```
+
+ - **Belgium:**
+    - XML Format: ```http://www.epgapi.ml/be```
 
  - **France:**
  	- XML Format: ```http://www.epgapi.ml/fr```
@@ -20,7 +23,7 @@ Supports France, Germany, and United Kingdom TV Channels at the moment:
 
 ## JSON Format
 
-Need the EPG data in JSON format? You can parse the XML output asynchronously without the callback hell using xml2js. Don't forget to replace **epg** with **de**, **fr** or **uk** in the URL if you need it for a specific country.
+Need the EPG data in JSON format? You can parse the XML output asynchronously without the callback hell using xml2js. Don't forget to replace **epg** with **be**, **de**, **fr** or **uk** in the URL if you need it for a specific country.
 
 ```javascript
 var eyes = require('eyes'),
