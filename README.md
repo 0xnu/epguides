@@ -2,7 +2,7 @@
 
 EPGuides - Electronic Program Guide - is a useful and straightforward tv program data covering countries across the globe. It's free to use, updated every seven days, and provides simple array access to the downloaded XML structures.
 
-## EPG by Country
+## EPG Data
 
 Supports France, Germany, and United Kingdom TV Channels at the moment:
 
@@ -18,7 +18,7 @@ Supports France, Germany, and United Kingdom TV Channels at the moment:
  - **United Kingdom:**
  	- XML Format: ```http://www.epgapi.ml/uk```
 
-## JSON Format?!!!
+## JSON Format
 
 Need the EPG data in JSON format? You can parse the XML output asynchronously without the callback hell using xml2js. Don't forget to replace **epg** with **de**, **fr** or **uk** in the URL if you need it for a specific country.
 
