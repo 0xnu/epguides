@@ -20,7 +20,7 @@ Supports France, Germany, and United Kingdom TV Channels at the moment:
 
 ## JSON Format?!!!
 
-Need the EPG data in JSON format? You can parse the XML output asynchronously with the callback hell using xml2js.
+Need the EPG data in JSON format? You can parse the XML output asynchronously with the callback hell using xml2js. Don't forget to replace **epg** with **de, fr or uk** in the URL if you need it for a specific country.
 
 ```javascript
 var eyes = require('eyes'),
