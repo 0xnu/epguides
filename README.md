@@ -7,19 +7,16 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 Supports France, Germany, and United Kingdom TV Channels at the moment:
 
  - **France, Germany and United Kingdom (combined epg, but it is large):**
- 	- ```JSON: http://www.epgapi.ml/epg```
+ 	- ```XML Format: coming soon...```
 
  - **France:**
- 	- ```XML: https://t.ly/6wmP1```
- 	- ```JSON: http://www.epgapi.ml/fr```
+ 	- ```XML Format: http://www.epgapi.ml/fr```
 
  - **Germany:**
- 	- ```XML: https://t.ly/R2Wl3```
- 	- ```JSON: http://www.epgapi.ml/de```
+ 	- ```XML Format: http://www.epgapi.ml/de```
 
  - **United Kingdom:**
- 	- ```XML: https://t.ly/2w0jR```
- 	- ```JSON: http://www.epgapi.ml/uk```
+ 	- ```XML Format: http://www.epgapi.ml/uk```
 
 ## Need a guide for your country, got issues or questions?
 
