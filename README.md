@@ -23,12 +23,12 @@ Supports Belgium, France, Germany, and United Kingdom TV Channels at the moment:
 
 ## JSON Format
 
-Need the EPG data in JSON format? You can parse the XML output asynchronously without the callback hell using xml2js. Don't forget to replace **epg** with **be**, **de**, **fr** or **uk** in the URL if you need it for a specific country.
+Need the EPG data in JSON format? You can parse the XML output asynchronously without the callback hell using xml2js. Don't forget to replace **epg** with the country code in the URL if you need it for a specific country.
 
 ```javascript
 var eyes = require('eyes'),
     http = require('http'),
-    async =require('async'),
+    async = require('async'),
     xml2js = require('xml2js');
 
 async.waterfall([
@@ -58,7 +58,7 @@ async.waterfall([
         });
     },
     function(json, callback) {
-        // do something usefull with the json
+        // do something useful with the json
         eyes.inspect(json);
         callback();
     }
