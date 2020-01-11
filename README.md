@@ -6,8 +6,11 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 
 Supports Belgium, France, Germany, and United Kingdom TV Channels at the moment:
 
- - **Belgium, France, Germany and United Kingdom (combined epg, but it is large):**
+ - **Albania, Belgium, France, Germany and United Kingdom (combined epg, but it is large):**
  	- XML Format: ```http://www.epgapi.ml/epg```
+
+ - **Albania:**
+    - XML Format: ```http://www.epgapi.ml/al```
 
  - **Belgium:**
     - XML Format: ```http://www.epgapi.ml/be```
