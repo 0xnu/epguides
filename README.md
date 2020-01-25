@@ -7,25 +7,25 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 Supports Belgium, France, Germany, and United Kingdom TV Channels at the moment:
 
  - **Albania, Argentina, Belgium, France, Germany and United Kingdom (combined epg, but it is large):**
- 	- XML Format: ```http://www.epgapi.ml/epg```
+ 	- XML Format: ```https://www.epgapi.ml/epg```
 
  - **Albania:**
-    - XML Format: ```http://www.epgapi.ml/al```
+    - XML Format: ```https://www.epgapi.ml/al```
 
  - **Argentina:**
-    - XML Format: ```http://www.epgapi.ml/ar```
+    - XML Format: ```https://www.epgapi.ml/ar```
 
  - **Belgium:**
-    - XML Format: ```http://www.epgapi.ml/be```
+    - XML Format: ```https://www.epgapi.ml/be```
 
  - **France:**
- 	- XML Format: ```http://www.epgapi.ml/fr```
+ 	- XML Format: ```https://www.epgapi.ml/fr```
 
  - **Germany:**
- 	- XML Format: ```http://www.epgapi.ml/de```
+ 	- XML Format: ```https://www.epgapi.ml/de```
 
  - **United Kingdom:**
- 	- XML Format: ```http://www.epgapi.ml/uk```
+ 	- XML Format: ```https://www.epgapi.ml/uk```
 
 ## JSON Format
 
@@ -39,7 +39,7 @@ var eyes = require('eyes'),
 
 async.waterfall([
     function(callback) {
-        http.get('http://www.epgapi.ml/epg', function(res) {
+        http.get('https://www.epgapi.ml/epg', function(res) {
             var response_data = '';
             res.setEncoding('utf8');
             res.on('data', function(chunk) {
