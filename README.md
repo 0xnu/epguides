@@ -7,25 +7,25 @@ EPGuides - Electronic Program Guide - is a useful and straightforward tv program
 Supports Belgium, France, Germany, and United Kingdom TV Channels at the moment:
 
  - **Albania, Argentina, Belgium, France, Germany and United Kingdom (combined epg, but it is large):**
- 	- XML Format: ```https://www.epgapi.ml/epg```
+ 	- XML Format: ```https://www.iptvepg.eu/epg```
 
  - **Albania:**
-    - XML Format: ```https://www.epgapi.ml/al```
+    - XML Format: ```https://www.iptvepg.eu/al```
 
  - **Argentina:**
-    - XML Format: ```https://www.epgapi.ml/ar```
+    - XML Format: ```https://www.iptvepg.eu/ar```
 
  - **Belgium:**
-    - XML Format: ```https://www.epgapi.ml/be```
+    - XML Format: ```https://www.iptvepg.eu/be```
 
  - **France:**
- 	- XML Format: ```https://www.epgapi.ml/fr```
+ 	- XML Format: ```https://www.iptvepg.eu/fr```
 
  - **Germany:**
- 	- XML Format: ```https://www.epgapi.ml/de```
+ 	- XML Format: ```https://www.iptvepg.eu/de```
 
  - **United Kingdom:**
- 	- XML Format: ```https://www.epgapi.ml/uk```
+ 	- XML Format: ```https://www.iptvepg.eu/uk```
 
 ## JSON Format
 
@@ -39,7 +39,7 @@ var eyes = require('eyes'),
 
 async.waterfall([
     function(callback) {
-        http.get('https://www.epgapi.ml/epg', function(res) {
+        http.get('https://www.iptvepg.eu/epg', function(res) {
             var response_data = '';
             res.setEncoding('utf8');
             res.on('data', function(chunk) {
@@ -80,4 +80,4 @@ async.waterfall([
 
 ## Need a guide for your country, got issues or questions?
 
-:sunglasses: :wave: [Email Me](mailto:oketunjifinbarrs@gmail.com)
+:sunglasses: :wave: [Email Me](mailto:f@finbarrs.eu)
