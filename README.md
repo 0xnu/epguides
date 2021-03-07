@@ -12,9 +12,6 @@ Supports Belgium, France, Germany, and United Kingdom TV Channels at the moment:
  - **Albania:**
     - XML Format: ```https://www.iptvepg.eu/al```
 
- - **Argentina:**
-    - XML Format: ```https://www.iptvepg.eu/ar```
-
  - **Belgium:**
     - XML Format: ```https://www.iptvepg.eu/be```
 
